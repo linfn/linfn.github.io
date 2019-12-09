@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on linfn&#39;s Blog</title>
+		<link>https://linfn.dev/posts/</link>
+		<description>Recent content in Posts on linfn&#39;s Blog</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 09 Dec 2019 18:13:37 +0800</lastBuildDate>
+		<atom:link href="https://linfn.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>My First Post</title>
+			<link>https://linfn.dev/posts/my-first-post/</link>
+			<pubDate>Mon, 09 Dec 2019 18:13:37 +0800</pubDate>
+			
+			<guid>https://linfn.dev/posts/my-first-post/</guid>
+			<description>将所学, 所思, 简洁清晰地表述出来.</description>
+			<content type="html"><![CDATA[<p>将所学, 所思, 简洁清晰地表述出来.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
