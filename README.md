@@ -1,3 +1,0 @@
-# linfn is coding
-
-...
